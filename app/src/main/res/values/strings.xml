@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cherie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <!--exit action start-->
+    <string name="exit">&#032;&#032;&#032;&#032;退出&#032;&#032;&#032;&#032;</string>
+    <string name="cancel">&#032;&#032;&#032;&#032;取消&#032;&#032;&#032;&#032;</string>
+    <string name="remind">&#126;&#126;&#126;掰掰&#126;&#126;&#126;</string>
+    <!--exit action end-->
+</resources>
